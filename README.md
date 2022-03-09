@@ -10,4 +10,7 @@ The IBM Watson Speech to Text service enables you to add speech transcription ca
 
 The IBM Watson Language Translator service lets you select a domain, customize it, then identify or select the language of text, and then translate the text from one supported language to another.
 
-in Language Translator langague codes plays a  key role to specity the exact languaue transalator  for example hindi= 'en-hi' these codes are predefined.![Screenshot (143)](https://user-images.githubusercontent.com/86067050/154898416-b4daa888-4d0d-460d-8f74-5f5d616e85ad.png)
+in Language Translator langague codes plays a  key role to specity the exact languaue transalator  for example hindi= 'en-hi' these codes are predefined.
+
+## Demo 
+![Screenshot (143)](https://user-images.githubusercontent.com/86067050/154898416-b4daa888-4d0d-460d-8f74-5f5d616e85ad.png)
